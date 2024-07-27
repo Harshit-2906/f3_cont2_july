@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Burger 1",
+        "price": "5.99",
+        "image": "burger1.jpg"
+    },
+    {
+        "name": "Burger 2",
+        "price": "6.99",
+        "image": "burger2.jpg"
+    },
+    {
+        "name": "Burger 3",
+        "price": "7.99",
+        "image": "burger3.jpg"
+    }
+]
